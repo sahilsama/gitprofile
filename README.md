@@ -1,3 +1,8 @@
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;">
+    <img src="https://github.com/user-attachments/assets/be7b69a3-bbe7-4255-8fce-172f31aaf23c" alt="coding" style="width: 100%; height: 100%; object-fit: cover">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Sahil Budakoti</h1>
 <h3 align="center">Software developer from India</h3>
 
